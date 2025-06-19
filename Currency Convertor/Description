@@ -23,7 +23,7 @@ script.js – Main logic for fetching data and DOM manipulation
 codes.js – Country-code-to-currency mapping for flag API
 
 *How to Use
-1. Clone this repository - 
+1. Clone this repository - https://github.com/harshitachhabria18/Currency-Convertor
 2. Open index.html in your browser - No installation or backend required.
 3. Ensure Internet Access - API calls require internet access to fetch real-time exchange rates and flag images.
 
