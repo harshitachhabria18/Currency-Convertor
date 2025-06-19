@@ -1,0 +1,31 @@
+*About
+A responsive and interactive Currency Converter Web App built using HTML, CSS, and JavaScript. This project allows users to convert currency values between different countries using real-time exchange rates from the Frankfurter API. It's a beginner-friendly frontend project that showcases DOM manipulation, API integration, and dynamic UI updates.
+
+*Features
+Live currency conversion using the latest exchange rates
+Supports a wide range of currencies with country flags
+Preselected default currencies (USD to INR)
+Responsive UI that works on all screen sizes
+Automatic flag update when currencies change
+Input validation and clean user feedback
+
+*Technologies Used
+HTML5 – structure and layout
+CSS3 – styling and responsive design
+JavaScript – functionality, event handling, API calls
+Frankfurter API – for currency exchange rates
+Flags API – to dynamically show country flags
+
+*Project Structure
+index.html – Markup of the app UI
+style.css – Responsive and minimal styling
+script.js – Main logic for fetching data and DOM manipulation
+codes.js – Country-code-to-currency mapping for flag API
+
+*How to Use
+1. Clone this repository - 
+2. Open index.html in your browser - No installation or backend required.
+3. Ensure Internet Access - API calls require internet access to fetch real-time exchange rates and flag images.
+
+
+
